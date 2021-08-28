@@ -1,2 +1,4 @@
-# Hello World
- First repository for Git and Github course 
+# Hello, World!
+ First repository for Git and Github course.
+
+Repository created during a class.
